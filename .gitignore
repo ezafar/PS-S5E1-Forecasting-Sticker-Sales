@@ -1,3 +1,4 @@
 *data
 NOTES.txt
 *.code-workspace
+.DS_Store
